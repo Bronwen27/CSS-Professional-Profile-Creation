@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+  background-color: blue;
+}
+
+header {
+text-decoration: rgb(9, 3, 87);
+display: flex;
+
+}
+.icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 25%;
+  padding: 10%;
+  margin: 10%;
+}
+
+.headline {
+  background-image: url("../images/02-portfolio-1.jpg");
+    border-bottom: 5px solid #FF6200;
+    position: absolute;
+    right: -50px;
+    top: 100px;
+    padding: 25px;
+    max-width: 550px;
+    z-index: 100;
+}
+.icons img {
+  margin: 70px;
+  cursor: pointer;
+}
+
+.hero-banner {
+  background-image: url("../images/02-portfolio-1.jpg")
+
+}
+
+#hero-banner img {
+height: max-content;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  background-color: blue;
+}
+
+.page-wrapper {
+  font-display: rgb(4, 4, 57);
+}
+
+header h1 {
+  font-size: xx-large;
+  font: red;
+  text-align: center;
+  display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
