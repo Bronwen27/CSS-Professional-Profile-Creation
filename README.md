@@ -9,10 +9,10 @@ The project aim is to build a portfolio page, which can be added to as the cours
 In this project I have created my own professional profile which I can add content too as I work. The screen should automatically re-size and adjust according to the screen size/ device being used. 
 
 ## Deployed Link:
-https://bronwen27.github.io/HTML-CSS-Horiseon-Refactor/
+https://bronwen27.github.io/CSS-Professional-Profile-Creation/
 
 ## Repo Link:
-https://github.com/Bronwen27/HTML-CSS-Horiseon-Refactor
+https://github.com/Bronwen27/CSS-Professional-Profile-Creation
 
 ## Installation
 Tasks completed:
